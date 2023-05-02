@@ -29,7 +29,7 @@ This repo represents the code for the following article writen on the Medium pub
 
 * [How to display locations from Firestore on Google Maps using Jetpack Compose?][10]
 
-See it also on youtube:
+See it also on youtube: https://youtu.be/3xyotlMU1Xs
 
 * Coming soon...
 
